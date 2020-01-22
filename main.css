@@ -1,3 +1,17 @@
 body {
   background-color: aqua;
+  font-family: Arial, Helvetica, sans-serif;
+  color: orange;
+}
+
+#dino-barn {
+  display: flex;
+}
+
+.dinosaur {
+  border: 2px solid orange;
+  margin: 5px;
+  padding: 5px;
+  text-align: center;
+
 }
